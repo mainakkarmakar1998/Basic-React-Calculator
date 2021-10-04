@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Cal.css";
 
 
-const List = () =>{
+const Cal = () =>{
 
     const [result,setResult]= useState("");
     function click(e){
